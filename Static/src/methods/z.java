@@ -2,14 +2,16 @@ package methods;
 
 public class z
 {
+	static float test()
+	{
+		return 55;
+	}
 	public static void main(String[] args)
 	{
-		if(true);
-		{
-			System.out.println("ssdfgh");
-			
-		}
-	
+		
+		
+		
+		System.out.println(test());
 			
 	}
 	
