@@ -1,0 +1,24 @@
+package methods;
+
+public class S 
+{
+	
+	public static int x=test();
+	public int y=test();
+	
+	
+	public int test()
+	{
+		
+		
+		System.out.println("test:"+x+","+y);
+		
+		return y;
+	}
+	public static void main(String[] args)
+	{
+		
+		
+	}
+
+}

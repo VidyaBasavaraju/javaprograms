@@ -1,0 +1,14 @@
+package PATTERN_PGM;
+
+public class abcd
+{
+	public static void main(String[] args)
+	{
+		System.out.println("printing stars");
+		for(int i=0;i<=5;i++)
+		{
+		System.out.print("*");
+		}
+	}
+
+}
